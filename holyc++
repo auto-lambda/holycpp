@@ -1,5 +1,5 @@
 #ifndef  const²
-# define const²
+# define const² const*const
 #endif  // const²
 
 #ifndef  declauto
