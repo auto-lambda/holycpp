@@ -1,0 +1,7 @@
+#ifndef  const²
+# define const²
+#endif  // const²
+
+#ifndef  declauto
+# define declauto decltype(auto)
+#endif  // declauto
